@@ -1,1 +1,1 @@
-# IBM-DataScience-Capstone
+# IBM-DataScience-Specialization-Capstone
